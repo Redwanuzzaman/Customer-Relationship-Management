@@ -1,2 +1,2 @@
 # Customer-Relationship-Management
-A Simple CRM
+A Simple Customer Relationship Management System 
